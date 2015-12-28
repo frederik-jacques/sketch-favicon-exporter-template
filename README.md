@@ -19,6 +19,27 @@ Just download the source and open the `favicon-exporter.sketch` file with Sketch
 
 From now on, you can access the template via `File > New from Template`.
 
+## Usage
+Add your assets to the different artboards (with the bigger ones you can add more detail) and export via `File > Export...`.
+
+## HTML
+Use this piece of HTML in your code to add the favicons.
+
+```
+<link rel="icon" type="image/png" href="images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="apple-touch-icon" sizes="57x57" href="images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon-180x180.png">
+```
+
 ## Credits
 Frederik Jacques, frederik@the-nerd.be
 
