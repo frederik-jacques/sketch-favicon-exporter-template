@@ -1,5 +1,7 @@
 # Sketch Favicon Exporter
 
+![Sketch Favicon Exporter](http://cl.ly/0S1o3f1E2T45/favicon-exporter.png)
+
 ## What does it do?
 The Sketch Favicon Exporter is a [Sketch](https://www.sketchapp.com) template to easily generate all the necessary favicons for today's devices.
 
