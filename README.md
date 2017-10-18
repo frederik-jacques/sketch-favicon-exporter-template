@@ -22,7 +22,7 @@ Just download the source and open the `favicon-exporter.sketch` file with Sketch
 From now on, you can access the template via `File > New from Template`.
 
 ## Usage
-Add your assets to the different artboards (with the bigger ones you can add more detail) and export via `File > Export...`.
+Add your assets to the different artboards (with the bigger ones you can add more detail) and export via `Share > Export...`.
 
 ## HTML
 Use this piece of HTML in your code to add the favicons.
