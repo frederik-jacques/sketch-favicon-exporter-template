@@ -24,6 +24,8 @@ From now on, you can access the template via `File > New from Template`.
 ## Usage
 Add your assets to the different artboards (with the bigger ones you can add more detail) and export via `Share > Export...`.
 
+To the same asset in each artboard, you can add your assets to the Master Favicon symbol, which is scaled identically in each favicon.
+
 ## HTML
 Use this piece of HTML in your code to add the favicons.
 
